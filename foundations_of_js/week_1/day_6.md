@@ -1,22 +1,22 @@
-## Day 6
+# Day 6
 
-### AJC: 'this' keyword (1 hour)
+## AJC: 'this' keyword (1 hour)
 #### Course Path
 - [JS Info: Object Methods](https://javascript.info/object-methods)
 - [Understanding the 'this' keyword in JS](https://medium.com/quick-code/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8)
 
 
-### AJC: Storage (1 hour)
+## AJC: Storage (1 hour)
 #### Course Path
 - [JS Info: Data storage in browsers](https://javascript.info/data-storage)
 
 
-### AJC: Other environments like NodeJS (npm), YARN (1 hour)
+## AJC: Other environments like NodeJS (npm), YARN (1 hour)
 #### Course Path
 - [npm](https://thecodebarbarian.com/an-introduction-to-npm)
 - [Yarn](https://medium.com/@jpblancoder/yarn-all-the-things-67a5b9839152)
 
-### ADE Assignment: Javascript pagination (before week-2 of sprint 3)
+## ADE Assignment: Javascript pagination (before week-2 of sprint 3)
 #### Problem Statement
 ##### Task 1
 Apply what you learnt from [Introduction to babel & javascript bundlers](https://medium.com/backticks-tildes/introduction-to-babel-and-javascript-bundlers-fe6165de197c) to create a project that can understand ES6 and write the code for this assignment in ES6.
