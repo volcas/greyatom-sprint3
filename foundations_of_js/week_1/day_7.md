@@ -1,4 +1,4 @@
-# Day 6
+# Day 7
 
 ## AJC: 'this' keyword (1 hour)
 #### Course Path
