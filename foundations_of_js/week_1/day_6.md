@@ -16,7 +16,7 @@
 - [npm](https://thecodebarbarian.com/an-introduction-to-npm)
 - [Yarn](https://medium.com/@jpblancoder/yarn-all-the-things-67a5b9839152)
 
-## ADE Assignment: Javascript pagination (before week-2 of sprint 3)
+## ADE Assignment: Javascript pagination (before week-2 of sprint 3 starts)
 #### Problem Statement
 ##### Task 1
 Apply what you learnt from [Introduction to babel & javascript bundlers](https://medium.com/backticks-tildes/introduction-to-babel-and-javascript-bundlers-fe6165de197c) to create a project that can understand ES6 and write the code for this assignment in ES6.
