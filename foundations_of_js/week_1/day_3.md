@@ -1,9 +1,9 @@
 # Day 3
 
-### BJSP Assignment: Quiz (Second Half)  (4 hours)
+## BJSP Assignment: Quiz (Second Half)  (4 hours)
 ...complete the assigment
 
-### AJAX (Promises) & DOM Events (ADE): Intro (10 min)
+## AJAX (Promises) & DOM Events (ADE): Intro (10 min)
 #### Overview
 **DOM (Document Object Model) events** are an actions that occurs as a result of the user action or as result of state change of the elements of a [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) tree.
 
@@ -19,7 +19,7 @@ Examples of HTML DOM events:
 AJAX (Asynchronous JavaScript and XML) is a mechanism through which web applications can send and retrieve data from a [server](https://en.wikipedia.org/wiki/Web_server "Web server") asynchronously (in the background) without interfering with the display and behavior of the existing page. By decoupling the data interchange layer from the presentation layer, Ajax allows web pages and, by extension, web applications, to change content dynamically without the need to reload the entire page. In practice, modern implementations commonly utilize [JSON](https://en.wikipedia.org/wiki/JSON "JSON") instead of XML.
 
 
-### ADE: REST (1 hour)
+## ADE: REST (1 hour)
 #### Course Path
 - [HTTP Explained: The HTTP Request Status Code Guide (Complete)](https://www.youtube.com/watch?v=VLH3FMQ5BIQ)
 - [How HTTP Requests Work](https://www.youtube.com/watch?v=CFzgKfnmG-Q)
@@ -29,7 +29,7 @@ AJAX (Asynchronous JavaScript and XML) is a mechanism through which web applicat
 - [REST API concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA)
 
 
-### ADE: AJAX and Promises (2 hours)
+## ADE: AJAX and Promises (2 hours)
 #### Course Path
 - [What Is Ajax?](https://www.youtube.com/watch?v=3l13qGLTgNw)
 - [JSON and AJAX Tutorial: With Real Examples](https://www.youtube.com/watch?v=rJesac0_Ftw)
@@ -38,12 +38,12 @@ AJAX (Asynchronous JavaScript and XML) is a mechanism through which web applicat
 #### Additional References
 - [MDN: AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started)
 
-### ADE: Fetch API in JavaScript (1 hour)
+## ADE: Fetch API in JavaScript (1 hour)
 #### Course Path
 - [Fetch API introduction to promised based data fetching in plain javascript/](https://codingthesmartway.com/fetch-api-introduction-to-promised-based-data-fetching-in-plain-javascript/)
 
 
-### ADE: Event loop (1 hour)
+## ADE: Event loop (1 hour)
 #### Course Path
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [JS timing events](https://www.w3schools.com/js/js_timing.asp)
