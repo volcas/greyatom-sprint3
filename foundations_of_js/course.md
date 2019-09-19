@@ -63,9 +63,265 @@ After this sprint, you will have an understanding of
 
 ## Content Tree
 
-| Concept | Week | Topic | Day | Difficulty Level | Estimated Time |
-|--|--|--|--|--|--|
-| Basics of JS programming (BJSP) | 1 |  |  |  |  |
+<table>
+  <tr>
+    <th>Concept</th>
+    <th>Week/Day</th>
+    <th>Topic</th>
+    <th>Difficulty Level</th>
+    <th>Estimated Time</th>
+  </tr>
+  <tr>
+    <td colspan="4">Basics of JS programming(BJSP)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>BJSP</td>
+    <td>W1/D1</td>
+    <td>Introduction</td>
+    <td>Low</td>
+    <td>10 min</td>
+  </tr>
+  <tr>
+    <td>BJSP</td>
+    <td>W1/D1</td>
+    <td>Variables and Data types</td>
+    <td>Low</td>
+    <td>1 hour</td>
+  </tr>
+  <tr>
+    <td>BJSP</td>
+    <td>W1/D1</td>
+    <td>Operators</td>
+    <td>Low</td>
+    <td>30 min</td>
+  </tr>
+  <tr>
+    <td>BJSP</td>
+    <td>W1/D1</td>
+    <td>Control flow and Error handling</td>
+    <td>Low</td>
+    <td>30min</td>
+  </tr>
+  <tr>
+    <td>BJSP</td>
+    <td>W1/D1</td>
+    <td>Loops</td>
+    <td>Medium</td>
+    <td>1 hour</td>
+  </tr>
+  <tr>
+    <td>BJSP</td>
+    <td>W1/D1</td>
+    <td>Functions</td>
+    <td>Medium</td>
+    <td>3 hours</td>
+  </tr>
+  <tr>
+    <td>BJSP</td>
+    <td>W1/D1</td>
+    <td>Object-oriented programming</td>
+    <td>Medium</td>
+    <td>2 hours</td>
+  </tr>
+  <tr>
+    <td>BJSP</td>
+    <td>W1/D2</td>
+    <td>Data structures</td>
+    <td>High</td>
+    <td>2 hours</td>
+  </tr>
+  <tr>
+    <td>BJSP</td>
+    <td>W1/D2</td>
+    <td>Basics of DOM and DOM Manipulation</td>
+    <td>High</td>
+    <td>3 hours</td>
+  </tr>
+  <tr>
+    <td>BJSP</td>
+    <td>W1/D2</td>
+    <td>Debugging</td>
+    <td>Low</td>
+    <td>30 min</td>
+  </tr>
+  <tr>
+    <td>BJSP Assignment</td>
+    <td>W1/D2</td>
+    <td>Remove Duplicate</td>
+    <td>Low</td>
+    <td>2 hours 30 min</td>
+  </tr>
+  <tr>
+    <td>BJSP Assignment</td>
+    <td>W1/D3</td>
+    <td>Quiz</td>
+    <td>Low</td>
+    <td>8 hours</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4">AJAX (Promises) &amp; DOM Events (ADE)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ADE</td>
+    <td>W1/D4</td>
+    <td>Introduction</td>
+    <td>Low</td>
+    <td>10 min</td>
+  </tr>
+  <tr>
+    <td>ADE</td>
+    <td>W1/D4</td>
+    <td>REST</td>
+    <td>Low</td>
+    <td>1 hour</td>
+  </tr>
+  <tr>
+    <td>ADE</td>
+    <td>W1/D4</td>
+    <td>AJAX and Promises</td>
+    <td>Medium</td>
+    <td>2 hours</td>
+  </tr>
+  <tr>
+    <td>ADE</td>
+    <td>W1/D4</td>
+    <td>Fetch API in JavaScript</td>
+    <td>Low</td>
+    <td>1 hour</td>
+  </tr>
+  <tr>
+    <td>ADE</td>
+    <td>W1/D4</td>
+    <td>Event loop</td>
+    <td>Medium</td>
+    <td>1 hour</td>
+  </tr>
+  <tr>
+    <td>ADE</td>
+    <td>W1/D5</td>
+    <td>Event delegation, propagation, bubbling</td>
+    <td>Medium</td>
+    <td>1 hour</td>
+  </tr>
+  <tr>
+    <td>ADE</td>
+    <td>W1/D5</td>
+    <td>Using external libraries like jQuery, Lodash</td>
+    <td>Medium</td>
+    <td>1 hour</td>
+  </tr>
+  <tr>
+    <td>ADE</td>
+    <td>W1/D5</td>
+    <td>Best Practices</td>
+    <td>Low</td>
+    <td>30 min</td>
+  </tr>
+  <tr>
+    <td>ADE Assignment</td>
+    <td>W1/D5-6</td>
+    <td>Auto Image Slider</td>
+    <td>Medium</td>
+    <td>8 hours 30 min</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4">Advanced Javascript Concepts (AJC)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AJC</td>
+    <td>W1/D6</td>
+    <td>Advanced data structure</td>
+    <td>High</td>
+    <td>1 hour</td>
+  </tr>
+  <tr>
+    <td>AJC</td>
+    <td>W1/D6</td>
+    <td>ES6</td>
+    <td>Medium</td>
+    <td>2 hour</td>
+  </tr>
+  <tr>
+    <td>AJC</td>
+    <td>W1/D6</td>
+    <td>ES6 - Async await</td>
+    <td>High</td>
+    <td>1 hour</td>
+  </tr>
+  <tr>
+    <td>AJC</td>
+    <td>W1/D6</td>
+    <td>Class Inheritance</td>
+    <td>Medium</td>
+    <td>1 hour</td>
+  </tr>
+  <tr>
+    <td>AJC</td>
+    <td>W1/D7</td>
+    <td>'this' keyword</td>
+    <td>Medium</td>
+    <td>2 hour</td>
+  </tr>
+  <tr>
+    <td>AJC</td>
+    <td>W1/D7</td>
+    <td>Storage</td>
+    <td>Medium</td>
+    <td>2 hour</td>
+  </tr>
+  <tr>
+    <td>AJC</td>
+    <td>W1/D7</td>
+    <td>Other environments like NodeJS (npm), YARN</td>
+    <td>Medium</td>
+    <td>2 hour</td>
+  </tr>
+  <tr>
+    <td>AJC Assignment</td>
+    <td>W2/D8</td>
+    <td>Javascript pagination - 1</td>
+    <td>High</td>
+    <td>8 hours</td>
+  </tr>
+  <tr>
+    <td>AJC Assignment</td>
+    <td>W2/D9</td>
+    <td>Javascript pagination - 2</td>
+    <td>High</td>
+    <td>8 hours</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Project</td>
+    <td>W2/D10-14</td>
+    <td>Instagram Clone</td>
+    <td>High</td>
+    <td>40 hours</td>
+  </tr>
+</table>
 
 
 ## Course Content
