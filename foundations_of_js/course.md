@@ -73,7 +73,7 @@ After this sprint, you will have an understanding of
   </tr>
   <tr>
     <td colspan="4">Basics of JS programming(BJSP)</td>
-    <td></td>
+    <td>24 hours 10 min</td>
   </tr>
   <tr>
     <td>BJSP</td>
@@ -168,7 +168,7 @@ After this sprint, you will have an understanding of
   </tr>
   <tr>
     <td colspan="4">AJAX (Promises) &amp; DOM Events (ADE)</td>
-    <td></td>
+    <td>16 hours 10 min</td>
   </tr>
   <tr>
     <td>ADE</td>
@@ -242,7 +242,7 @@ After this sprint, you will have an understanding of
   </tr>
   <tr>
     <td colspan="4">Advanced Javascript Concepts (AJC)</td>
-    <td></td>
+    <td>27 hours</td>
   </tr>
   <tr>
     <td>AJC</td>
