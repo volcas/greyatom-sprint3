@@ -1,6 +1,6 @@
 # Day 4
 
-### ADE: Event delegation, propagation, bubbling (1 hour)
+## ADE: Event delegation, propagation, bubbling (1 hour)
 #### Course Path
 -  [Event Propagation Explained (w Bubbling and Capturing)](https://www.youtube.com/watch?v=BtOrr7oTH_8)
 
@@ -10,7 +10,7 @@
 - [Handing JS events efficiently with bubble and capture](https://dev.to/shimphillip/handing-javascript-events-efficiently-with-bubble-and-capture-4ha5)
 
 
-### ADE: Using external libraries like jQuery, Lodash (1 hour)
+## ADE: Using external libraries like jQuery, Lodash (1 hour)
 #### Course Path
 -  [jQuery Crash Course](https://www.youtube.com/watch?v=hMxGhHNOkCU&list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_)
 - [Introduction to lodash](https://medium.com/front-end-weekly/introduction-to-lodash-71dbee093b49)
@@ -20,14 +20,14 @@
 - [Lodash](https://lodash.com/)
 
 
-### ADE: Best Practices (30 min)
+## ADE: Best Practices (30 min)
 #### Course Path
 -  [https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399](https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399)
 - [https://ilikekillnerds.com/2015/03/things-every-javascript-developer-should-know/](https://ilikekillnerds.com/2015/03/things-every-javascript-developer-should-know/)
 
 
 
-### ADE Assignment: Auto Image Slider - First Half (5 hours 30 min)
+## ADE Assignment: Auto Image Slider - First Half (5 hours 30 min)
 #### Problem Statement
 ##### Task 1
 Make a request using `fetch() API` to [https://jsonplaceholder.typicode.com/photos](https://jsonplaceholder.typicode.com/photos) to retrieve an array of photo detail objects. Click on the link to see the sample response. It should be an array of photo detail objects.
