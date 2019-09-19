@@ -72,7 +72,7 @@ After this sprint, you will have an understanding of
     <th>Estimated Time</th>
   </tr>
   <tr>
-    <td colspan="4">Basics of JS programming(BJSP)</td>
+   <td colspan="4"><em>Basics of JS programming(BJSP)</em></td>
     <td>24 hours 10 min</td>
   </tr>
   <tr>
