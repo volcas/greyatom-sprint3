@@ -79,6 +79,7 @@ After this sprint, you will have an understanding of
 - [Day 7](week_1/day_7.md)
 
 ### Week 2
+- [Mini Project: JavaScript Pagination](week_2/mini_project.md)
 - [Project: Build a Instagram clone](week_2/project.md)
 
 
