@@ -1,6 +1,6 @@
 # Day 2
 
-### BJSP: Basics of DOM and DOM Manipulation (3 hour)
+## BJSP: Basics of DOM and DOM Manipulation (3 hour)
 #### Course Path
 - [JavaScript DOM Crash Course - Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc)
 - [JavaScript DOM Crash Course - Part 2](https://www.youtube.com/watch?v=mPd2aJXCZ2g)
@@ -14,7 +14,7 @@
 - [MDN: Manipulating documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
 
 
-### BJSP: Debugging (30 min)
+## BJSP: Debugging (30 min)
 #### Course Path
 - [Debugging techniques with Javascript](https://www.youtube.com/watch?v=3EXNtmgf87s)
 
@@ -25,7 +25,7 @@
 - [JS Info: Debugging Chrome](https://javascript.info/debugging-chrome)
 
 
-### BJSP Assignment: Remove Duplicate (2 hours)
+## BJSP Assignment: Remove Duplicate (2 hours)
 #### Problem Statement
 Given an array of numbers with duplicate values, write a function to return an array of approximately equally divided sorted array of unique numbers. For example, if the user provides an array of numbers say
 > [1, 10, 20, 2, 5, 2, 2, 2, 5, 3, 4, 8]
@@ -51,7 +51,7 @@ Then, the final result would be:
 - 1 < number < 10^3
 - 2 < Array of numbers < 10^3
 
-### BJSP Assignment: Quiz (First Half) (3 hours)
+## BJSP Assignment: Quiz (First Half) (3 hours)
 #### Problem Statement
 In your code, Create an array of Objects with 3 properties i.e question, answer, options e.g
 > [
