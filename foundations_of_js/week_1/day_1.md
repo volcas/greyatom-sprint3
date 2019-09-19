@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 (8 hour 10 min)
 
 ## Basics of JS programming (BJSP): Intro  (10 min)
 #### Overview
