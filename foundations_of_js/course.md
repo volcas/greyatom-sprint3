@@ -69,8 +69,16 @@ After this sprint, you will have an understanding of
 
 
 ## Course Content
-- [Day 1](week/day_1.md)
+### Week 1
+- [Day 1](week_1/day_1.md)
+- [Day 2](week_1/day_2.md)
+- [Day 3](week_1/day_3.md)
+- [Day 4](week_1/day_4.md)
+- [Day 5](week_1/day_5.md)
+- [Day 6](week_1/day_6.md)
 
-## Project Tasks
+### Week 2
+- [Project: Build a Instagram clone](week_2/project.md)
 
-**Objective**: Build a Instagram clone.
+
+All the best! :)
