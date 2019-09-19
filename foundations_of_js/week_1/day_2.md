@@ -1,5 +1,12 @@
 # Day 2
 
+## BJSP: Data structures (2 hours)
+#### Course Path
+- [JS Info: Array Methods](https://javascript.info/array-methods)
+- [Medium: Data structures in JS](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
+- [Medium: Data structures in JS Part 1](https://blog.bitsrc.io/data-structures-in-javascript-part-1-8231c9a4bc8b)
+- [Medium: Data structures in JS Part 2](https://blog.bitsrc.io/data-structures-in-javascript-part-2-d0d09b761df0)
+
 ## BJSP: Basics of DOM and DOM Manipulation (3 hour)
 #### Course Path
 - [JavaScript DOM Crash Course - Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc)
@@ -25,7 +32,7 @@
 - [JS Info: Debugging Chrome](https://javascript.info/debugging-chrome)
 
 
-## BJSP Assignment: Remove Duplicate (2 hours)
+## BJSP Assignment: Remove Duplicate (2 hours 30 min)
 #### Problem Statement
 Given an array of numbers with duplicate values, write a function to return an array of approximately equally divided sorted array of unique numbers. For example, if the user provides an array of numbers say
 > [1, 10, 20, 2, 5, 2, 2, 2, 5, 3, 4, 8]
