@@ -339,4 +339,14 @@ After this sprint, you will have an understanding of
 - [Project: Build a Instagram clone](week_2/project.md)
 
 
+## Projects on GitHub
+- [https://github.com/sudheerj/awesome-javascript-technologies](https://github.com/sudheerj/awesome-javascript-technologies)
+- [https://github.com/gordonnl/animatejs](https://github.com/gordonnl/animatejs)
+- [https://github.com/codrops](https://github.com/codrops)
+- [https://github.com/addyosmani/es6-tools#readme](https://github.com/addyosmani/es6-tools#readme)
+- [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [https://github.com/freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [https://github.com/nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
+- [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)
+
 All the best! :)
