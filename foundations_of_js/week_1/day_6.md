@@ -1,54 +1,44 @@
 # Day 6
 
-## AJC: 'this' keyword (1 hour)
+
+## ADE Assignment: Auto Image Slider - Second Half (3 hours)
+...complete the assignment
+
+## Advanced Javascript Concepts (AJC) : Intro
+#### Overview
+JavaScript is huge. Pat yourself at the back for having reached this far. The course was broken into the essentials and the advanced JS concepts being used by the Industry. In this section, we'll be exploring the Advanced concepts that simplifies JS and provides more power to the developer.
+
+## AJC: Advanced data structure (1 hour)
 #### Course Path
-- [JS Info: Object Methods](https://javascript.info/object-methods)
-- [Understanding the 'this' keyword in JS](https://medium.com/quick-code/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8)
+- [Codeburst: Useful JS array & object methods](https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230)
 
 
-## AJC: Storage (1 hour)
+## AJC: ES6 (2 hour)
 #### Course Path
-- [JS Info: Data storage in browsers](https://javascript.info/data-storage)
+- Install Node.js [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
+- [Introduction to babel & javascript bundlers](https://medium.com/backticks-tildes/introduction-to-babel-and-javascript-bundlers-fe6165de197c)
+- [JavaScript ES6 Tutorial: Complete Playlist](https://www.youtube.com/watch?v=0Mp2kwE8xY0&list=PL4cUxeGkcC9gKfw25slm4CUDUcM_sXdml)
+- [JavaScript Modules: ES6 Import and Export](https://www.youtube.com/watch?v=_3oSWwapPKQ&feature=youtu.be)
+
+#### Additional References
+- [MDN: ES6 Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
+- [ES6 tutorial for beginners](https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be)
+- [What you should know about es6 maps?](https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e)
+- [https://babeljs.io/](https://babeljs.io/)
+- [ES6 and Babel tutorial](https://html5hive.org/es6-and-babel-tutorial/)
 
 
-## AJC: Other environments like NodeJS (npm), YARN (1 hour)
+## AJC: ES6 - Async await (1 hour)
 #### Course Path
-- [npm](https://thecodebarbarian.com/an-introduction-to-npm)
-- [Yarn](https://medium.com/@jpblancoder/yarn-all-the-things-67a5b9839152)
+-  [Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
 
-## ADE Assignment: Javascript pagination (before week-2 of sprint 3 starts)
-#### Problem Statement
-##### Task 1
-Apply what you learnt from [Introduction to babel & javascript bundlers](https://medium.com/backticks-tildes/introduction-to-babel-and-javascript-bundlers-fe6165de197c) to create a project that can understand ES6 and write the code for this assignment in ES6.
+#### Additional References
+- [Async / Await in JavaScript - What, Why and How - Fun Fun Function](https://www.youtube.com/watch?v=568g8hxJJp4)
+- [6 reasons why javascripts async await blows promises away](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
+- [Async JS from callbacks to promises to async-await/](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/)
 
-Make an API call to [https://jsonplaceholder.typicode.com/comments](https://jsonplaceholder.typicode.com/comments). An example for making an API [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/)
 
-You should receive a certain number of comments in an array.
-
-##### Task 2
-The API should give you 500 comments. But, imagine if the count was even higher. It's not wise to render so many comments on the screen at once. Your task is to divide the data in a group of 10 and show only 10 comments at a time on screen.
-
-So, the data will be divided in pages as you see when you Google search. So, if there are 100 comments and the comments have to be grouped by 10, then we have 1 - 10 comments in page 1, 11 - 20 comments in page, 21 - 30 comments in page 3 and so on.
-
-Render all the page links from **1 to n** based on the response as show in [https://i.stack.imgur.com/arvaT.png](https://i.stack.imgur.com/arvaT.png). Remember that there should be a group of 10 on each page.
-
-Above the pagination, render the comments received from response in vertical. The list should change on page change.
-
-##### Task 3
-Active page button should be styled differently
-
-##### Task 4
-Create the next and previous link around page to move to next and previous page
-
-##### Task 5
-Finally generate a select element (dropdown) with a number of pages as input and update the recordset when the user changes the number. Say user choose page 5, then the list should show the comments from page 5
-
-#### Input
-Comments from [https://jsonplaceholder.typicode.com/comments](https://jsonplaceholder.typicode.com/comments)
-
-#### Output
-Pagination similar to [https://i.stack.imgur.com/arvaT.png](https://i.stack.imgur.com/arvaT.png)
-
-#### Constraints
-- Use async/await
-- Try to persist the value (localStorage) to show the stale list in case API fails or internet is off.
+## AJC: ES6 - Class Inheritance (1 hour)
+#### Course Path
+-  [JS Info: Class inheritance](https://javascript.info/class-inheritance)
+- [ES6: Classes & Inheritance](https://medium.com/ecmascript-2015/es6-classes-and-inheritance-607804080906)

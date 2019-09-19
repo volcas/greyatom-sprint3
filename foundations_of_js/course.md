@@ -76,6 +76,7 @@ After this sprint, you will have an understanding of
 - [Day 4](week_1/day_4.md)
 - [Day 5](week_1/day_5.md)
 - [Day 6](week_1/day_6.md)
+- [Day 7](week_1/day_7.md)
 
 ### Week 2
 - [Project: Build a Instagram clone](week_2/project.md)

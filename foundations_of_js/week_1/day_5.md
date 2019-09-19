@@ -1,42 +1,61 @@
 # Day 5
-## ADE Assignment: Auto Image Slider - Second Half (3 hours)
-...complete the assignment
 
-## Advanced Javascript Concepts (AJC) : Intro
-#### Overview
-JavaScript is huge. Pat yourself at the back for having reached this far. The course was broken into the essentials and the advanced JS concepts being used by the Industry. In this section, we'll be exploring the Advanced concepts that simplifies JS and provides more power to the developer.
 
-## AJC: Advanced data structure (1 hour)
+
+## ADE: Event delegation, propagation, bubbling (1 hour)
 #### Course Path
-- [Codeburst: Useful JS array & object methods](https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230)
-
-
-## AJC: ES6 (2 hour)
-#### Course Path
-- Install Node.js [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
-- [Introduction to babel & javascript bundlers](https://medium.com/backticks-tildes/introduction-to-babel-and-javascript-bundlers-fe6165de197c)
-- [JavaScript ES6 Tutorial: Complete Playlist](https://www.youtube.com/watch?v=0Mp2kwE8xY0&list=PL4cUxeGkcC9gKfw25slm4CUDUcM_sXdml)
-- [JavaScript Modules: ES6 Import and Export](https://www.youtube.com/watch?v=_3oSWwapPKQ&feature=youtu.be)
+-  [Event Propagation Explained (w Bubbling and Capturing)](https://www.youtube.com/watch?v=BtOrr7oTH_8)
 
 #### Additional References
-- [MDN: ES6 Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
-- [ES6 tutorial for beginners](https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be)
-- [What you should know about es6 maps?](https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e)
-- [https://babeljs.io/](https://babeljs.io/)
-- [ES6 and Babel tutorial](https://html5hive.org/es6-and-babel-tutorial/)
+- [Event Propagation Explained (w Bubbling and Capturing)](https://www.youtube.com/watch?v=BtOrr7oTH_8)
+- [Whats the difference between JS event delegation, bubbling and capturing?](https://gomakethings.com/whats-the-difference-between-javascript-event-delegation-bubbling-and-capturing/)
+- [Handing JS events efficiently with bubble and capture](https://dev.to/shimphillip/handing-javascript-events-efficiently-with-bubble-and-capture-4ha5)
 
 
-## AJC: ES6 - Async await (1 hour)
+## ADE: Using external libraries like jQuery, Lodash (1 hour)
 #### Course Path
--  [Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
+-  [jQuery Crash Course](https://www.youtube.com/watch?v=hMxGhHNOkCU&list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_)
+- [Introduction to lodash](https://medium.com/front-end-weekly/introduction-to-lodash-71dbee093b49)
 
 #### Additional References
-- [Async / Await in JavaScript - What, Why and How - Fun Fun Function](https://www.youtube.com/watch?v=568g8hxJJp4)
-- [6 reasons why javascripts async await blows promises away](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
-- [Async JS from callbacks to promises to async-await/](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/)
+- [jQuery](https://jquery.com/)
+- [Lodash](https://lodash.com/)
 
 
-## AJC: ES6 - Class Inheritance (1 hour)
+## ADE: Best Practices (30 min)
 #### Course Path
--  [JS Info: Class inheritance](https://javascript.info/class-inheritance)
-- [ES6: Classes & Inheritance](https://medium.com/ecmascript-2015/es6-classes-and-inheritance-607804080906)
+-  [https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399](https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399)
+- [https://ilikekillnerds.com/2015/03/things-every-javascript-developer-should-know/](https://ilikekillnerds.com/2015/03/things-every-javascript-developer-should-know/)
+
+
+
+## ADE Assignment: Auto Image Slider - First Half (5 hours 30 min)
+#### Problem Statement
+##### Task 1
+Make a request using `fetch() API` to [https://jsonplaceholder.typicode.com/photos](https://jsonplaceholder.typicode.com/photos) to retrieve an array of photo detail objects. Click on the link to see the sample response. It should be an array of photo detail objects.
+
+##### Task 2
+In this response, you will see properties with the name **'title', 'url', 'thumbnailUrl', etc.** Reduce the **size of the response array** to the top five photo details.
+
+##### Task 3
+Create an animated image slider which auto slides in every 5 seconds using the **reduced response array**. The slider should look similar to the image provided in the link: [https://www.jqueryscript.net/images/Basic-Thumbnail-Image-Slider-Plugin-with-jQuery-Thumb-slider.jpg](https://www.jqueryscript.net/images/Basic-Thumbnail-Image-Slider-Plugin-with-jQuery-Thumb-slider.jpg)
+
+Apply some random CSS animation of your choice on image slide in and out.
+
+##### Task 4
+Render the title, url and thumbnail url of the active slide under the Image Slider. On slide change, it should render the previously mentioned properties of the next active slide.
+
+##### Task 5
+User should be able to slide the images using the arrow keys (<- / ->). On using the navigational arrow keys, the auto slide should stop. The user should be given complete control.
+
+#### Input
+Photo details from [https://jsonplaceholder.typicode.com/photos](https://jsonplaceholder.typicode.com/photos) API.
+
+#### Output
+Animated Image Slider
+
+#### Constraints
+ - Use the `fetch()` API for API call.
+ - Use jQuery for DOM manipulation
+ - Use lodash once for any array/object manipulation.
+ - Try to use as many features as you can from ES6 concepts you learnt

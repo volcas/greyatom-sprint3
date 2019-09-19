@@ -1,4 +1,4 @@
-# Day 2
+# Day 2 (8 hours)
 
 ## BJSP: Data structures (2 hours)
 #### Course Path
@@ -57,40 +57,3 @@ Then, the final result would be:
 #### Constraints
 - 1 < number < 10^3
 - 2 < Array of numbers < 10^3
-
-## BJSP Assignment: Quiz (First Half) (3 hours)
-#### Problem Statement
-In your code, Create an array of Objects with 3 properties i.e question, answer, options e.g
-> [
-> &nbsp;&nbsp;{
-> &nbsp;&nbsp;&nbsp;&nbsp;question: 'What is the capital of India?',
-> &nbsp;&nbsp;&nbsp;&nbsp;answer: 'Delhi',
-> &nbsp;&nbsp;&nbsp;&nbsp;options: [ 'Mumbai', 'Delhi', 'Gujarat' ]
-> &nbsp;&nbsp;},
-> &nbsp;&nbsp;{
-> &nbsp;&nbsp;&nbsp;&nbsp;question: 'When did India win the first world cup?',
-> &nbsp;&nbsp;&nbsp;&nbsp;answer: '1983',
-> &nbsp;&nbsp;&nbsp;&nbsp;options: [ '1990', '1983', '2003' ]
-> &nbsp;&nbsp;},
-> ...so on
-> ]
-
-As shown in the example, create ten such objects with different questions, answers and options. Then design to create the site has been provided below.
-
-![Quiz](quiz.png)
-
-On answering the first question, the first question should slide out and the second question should slide in. The user should not be allowed to go to this next question until the first question is answered.
-
-Once the user has answered all the question, show the list of questions with the answers provided by the user alongside the right answer. Sample can be seen in the image.
-
-You can see a Exit button in the image which will allow the user to quit the quiz whenever he or she prefers. Once the user quits, the quiz should restart.
-
-#### Input
-[1, 9, 2, 3, 3, 3, 3, 3, 4, 4, 5, 6, 7, 8, 5, 6, 6, 9, 10, 10]
-
-#### Output
-[[1, 2, 3, 4, 5], [6, 7, 8, 9, 10]]
-
-#### Constraints
-- Not more than 20 questions.
-- User should be allowed to exit.
