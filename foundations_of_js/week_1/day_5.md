@@ -12,10 +12,11 @@
 - [Handing JS events efficiently with bubble and capture](https://dev.to/shimphillip/handing-javascript-events-efficiently-with-bubble-and-capture-4ha5)
 
 
-## ADE: Using external libraries like jQuery, Lodash (1 hour)
+## ADE: Using external libraries (1 hour)
 #### Course Path
--  [jQuery Crash Course](https://www.youtube.com/watch?v=hMxGhHNOkCU&list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_)
+- [jQuery Crash Course](https://www.youtube.com/watch?v=hMxGhHNOkCU&list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_)
 - [Introduction to lodash](https://medium.com/front-end-weekly/introduction-to-lodash-71dbee093b49)
+- https://alligator.io/js/time-manipulations-momentjs/
 
 #### Additional References
 - [jQuery](https://jquery.com/)
