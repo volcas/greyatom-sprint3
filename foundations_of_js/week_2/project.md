@@ -39,10 +39,10 @@ As the title suggests, you'd have to create a responsive clone of the Instagram 
 - SASS
 
 ### Screen mock ups
-![Instagram Landing Page](week_2/insta.png)
-![Instagram Landing Page - Responsive](week_2/insta_resp.png)
-![Instagram Profile Page](week_2/insta_profile.png)
-![Instagram Profile Page - Responsive](week_2/insta_profile_resp.png)
+![Instagram Landing Page](insta.png)
+![Instagram Landing Page - Responsive](insta_resp.png)
+![Instagram Profile Page](insta_profile.png)
+![Instagram Profile Page - Responsive](insta_profile_resp.png)
 
 ### Boiler plate
 Please use the boilerplate available in the [link](week_2/insta_clone). Details about starting and building the projects have been provided in the repo.
