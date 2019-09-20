@@ -40,9 +40,16 @@ As the title suggests, you'd have to create a responsive clone of the Instagram 
 
 ### Screen mock ups
 ![Instagram Landing Page](insta.png)
+Image of the Instagram landing page.
+
 ![Instagram Landing Page - Responsive](insta_resp.png)
+Image of the Mobile version of the Instagram landing page.
+
 ![Instagram Profile Page](insta_profile.png)
+Image of the Instagram profile page.
+
 ![Instagram Profile Page - Responsive](insta_profile_resp.png)
+Image of the Mobile version of Instagram landing page.
 
 ### Boiler plate
 Please use the boilerplate available in the [link](week_2/insta_clone). Details about starting and building the projects have been provided in the repo.
