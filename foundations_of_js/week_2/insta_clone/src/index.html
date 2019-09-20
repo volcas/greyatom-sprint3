@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<!-- Built with love by Rahul Shetty - Suma DevStudio -->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link href="fonts.googleapis.com" rel="preconnect" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css?family=Lato&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Raleway&display=swap"
+      rel="stylesheet"
+    />
+    <title>Insta Clone</title>
+  </head>
+
+  <body style="visibility: hidden;">
+    <div class="container">
+      <!-- Importing navbar -->
+      <%= require('html-loader!./header.html') %>
+
+      <!-- Importing main content -->
+      <%= require('html-loader!./main-content.html') %>
+
+      <!-- Importing main content -->
+      <%= require('html-loader!./footer.html') %>
+    </div>
+  </body>
+</html>

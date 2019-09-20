@@ -1,0 +1,17 @@
+$fa-font-path: '../../node_modules/@fortawesome/fontawesome-free/webfonts';
+@import '../../node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '../../node_modules/@fortawesome/fontawesome-free/scss/brands.scss';
+@import '../../node_modules/rfs/scss';
+@import './reset.scss';
+@import './common.scss';
+@import './header.scss';
+@import './main-content.scss';
+@import './footer.scss';
+
+.loading {
+  display: none;
+}
+
+.container {
+  height: 100vh;
+}
