@@ -56,24 +56,20 @@ From  [W3C](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScrip
 - [Tutorial Republic: JS loops](https://www.tutorialrepublic.com/javascript-tutorial/javascript-loops.php)
 
 
-## BJSP: Functions (3 hours)
+## BJSP: Functions (1 hour)
 ### Course Path
 - [JS Info: Function basics](https://javascript.info/function-basics)
 - [Javascript Is Sexy: Understand JS closures with ease](https://javascriptissexy.com/understand-javascript-closures-with-ease/)
 - [Codeburst: What the heck is a callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
-- [Tutorials Teacher: Immediately invoked function expression (iife)](https://www.tutorialsteacher.com/javascript/immediately-invoked-function-expression-iife)
-- [JS Info: Recursion](https://javascript.info/recursion)
-- [JS Info: Currying partials](https://javascript.info/currying-partials)
 
 #### Additional References
 - [MDN: Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 - [MDN: Callback function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
 
 
-## BJSP: Object-oriented programming (2 hour)
+## BJSP: Object-oriented programming (1 hour)
 #### Course Path
 - [Object Playground](http://www.objectplayground.com/)
-- [JS Info: Function object](https://javascript.info/function-object)
 - [Javascript Is Sexy: Apply, call & bind methods](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
 
 #### Additional References
