@@ -63,263 +63,193 @@ After this sprint, you will have an understanding of
 
 ## Content Tree
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-eqm3{font-size:20px;border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
   <tr>
-    <th>Concept</th>
-    <th>Week/Day</th>
-    <th>Topic</th>
-    <th>Difficulty Level</th>
-    <th>Estimated Time</th>
+    <th class="tg-0pky">Sprint</th>
+    <th class="tg-0pky">Concept</th>
+    <th class="tg-0pky">Topic</th>
+    <th class="tg-0pky">Quiz (Yes/No)</th>
+    <th class="tg-0pky">Difficulty Level</th>
+    <th class="tg-0pky">Estimated Time</th>
   </tr>
   <tr>
-   <td colspan="4"><strong>Basics of JS programming(BJSP)</strong></td>
-    <td><strong>24 hours 10 min</strong></td>
+    <td class="tg-0pky" rowspan="32">Sprint 3: Foundations of JavaScript</td>
+    <td class="tg-0pky" rowspan="8">Basics of JS programming</td>
+    <td class="tg-0pky">Introduction to JS: Variables and Operators</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">Easy</td>
+    <td class="tg-0pky">1 hour</td>
   </tr>
   <tr>
-    <td>BJSP</td>
-    <td>W1/D1</td>
-    <td>Introduction</td>
-    <td>Low</td>
-    <td>10 min</td>
+    <td class="tg-0pky">Control Flow &amp; Error Handling</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">Easy</td>
+    <td class="tg-0pky">30 min</td>
   </tr>
   <tr>
-    <td>BJSP</td>
-    <td>W1/D1</td>
-    <td>Variables and Data types</td>
-    <td>Low</td>
-    <td>1 hour</td>
+    <td class="tg-0pky">Functions &amp; Object Oriented Programming</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">Medium</td>
+    <td class="tg-0pky">2 hours</td>
   </tr>
   <tr>
-    <td>BJSP</td>
-    <td>W1/D1</td>
-    <td>Operators</td>
-    <td>Low</td>
-    <td>30 min</td>
+    <td class="tg-0pky">Data Structures</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">Medium</td>
+    <td class="tg-0pky">2 hours</td>
   </tr>
   <tr>
-    <td>BJSP</td>
-    <td>W1/D1</td>
-    <td>Control flow and Error handling</td>
-    <td>Low</td>
-    <td>30min</td>
+    <td class="tg-0pky">Basics of DOM and DOM manipulation/Debugging</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">Medium</td>
+    <td class="tg-0pky">3 hours</td>
   </tr>
   <tr>
-    <td>BJSP</td>
-    <td>W1/D1</td>
-    <td>Loops</td>
-    <td>Medium</td>
-    <td>1 hour</td>
+    <td class="tg-0pky">Form Validation: https://www.youtube.com/watch?v=HP-VzJEDCKE</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">Medium</td>
+    <td class="tg-0pky">1 hour</td>
   </tr>
   <tr>
-    <td>BJSP</td>
-    <td>W1/D1</td>
-    <td>Functions</td>
-    <td>Medium</td>
-    <td>3 hours</td>
+    <td class="tg-0pky">Assessment concept quiz</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Easy</td>
+    <td class="tg-0pky">20 min</td>
   </tr>
   <tr>
-    <td>BJSP</td>
-    <td>W1/D1</td>
-    <td>Object-oriented programming</td>
-    <td>Medium</td>
-    <td>2 hours</td>
+    <td class="tg-0pky">Assignment: Remove Duplicates</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Medium</td>
+    <td class="tg-0pky">1 hour</td>
   </tr>
   <tr>
-    <td>BJSP</td>
-    <td>W1/D2</td>
-    <td>Data structures</td>
-    <td>High</td>
-    <td>2 hours</td>
+    <td class="tg-0pky" colspan="5"></td>
   </tr>
   <tr>
-    <td>BJSP</td>
-    <td>W1/D2</td>
-    <td>Basics of DOM and DOM Manipulation</td>
-    <td>High</td>
-    <td>3 hours</td>
+    <td class="tg-0pky" rowspan="6">AJAX, Promises 7 DOM Events</td>
+    <td class="tg-0pky">REST/AJAX/Promises/Fetch</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">High</td>
+    <td class="tg-0pky">3 hour</td>
   </tr>
   <tr>
-    <td>BJSP</td>
-    <td>W1/D2</td>
-    <td>Debugging</td>
-    <td>Low</td>
-    <td>30 min</td>
+    <td class="tg-0pky">Event loop &amp; Event delegation</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">High</td>
+    <td class="tg-0pky">1 hour</td>
   </tr>
   <tr>
-    <td>BJSP Assignment</td>
-    <td>W1/D2</td>
-    <td>Remove Duplicate</td>
-    <td>Low</td>
-    <td>2 hours 30 min</td>
+    <td class="tg-0pky">Using external libraries like jQuery and Lodash</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">Medium</td>
+    <td class="tg-0pky">1 hour</td>
   </tr>
   <tr>
-    <td>BJSP Assignment</td>
-    <td>W1/D3</td>
-    <td>Quiz</td>
-    <td>Low</td>
-    <td>8 hours</td>
+    <td class="tg-0pky">Best Practices</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Easy</td>
+    <td class="tg-0pky">10 min</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td class="tg-0pky">Assessment concept quiz</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">20 min</td>
   </tr>
   <tr>
-    <td colspan="4"><strong>AJAX (Promises) &amp; DOM Events (ADE)</strong></td>
-    <td><strong>16 hours 10 min</strong></td>
+    <td class="tg-0pky">Assignment: Quiz Creator Project</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">2 hour</td>
   </tr>
   <tr>
-    <td>ADE</td>
-    <td>W1/D4</td>
-    <td>Introduction</td>
-    <td>Low</td>
-    <td>10 min</td>
+    <td class="tg-0pky" colspan="5"></td>
   </tr>
   <tr>
-    <td>ADE</td>
-    <td>W1/D4</td>
-    <td>REST</td>
-    <td>Low</td>
-    <td>1 hour</td>
+    <td class="tg-0pky" rowspan="8">Advanced JS Concepts</td>
+    <td class="tg-0pky">Advanced Data Structure</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">High</td>
+    <td class="tg-0pky">1 hour</td>
   </tr>
   <tr>
-    <td>ADE</td>
-    <td>W1/D4</td>
-    <td>AJAX and Promises</td>
-    <td>Medium</td>
-    <td>2 hours</td>
+    <td class="tg-0pky">ECMAScript 6</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">Medium</td>
+    <td class="tg-0pky">2 hour</td>
   </tr>
   <tr>
-    <td>ADE</td>
-    <td>W1/D4</td>
-    <td>Fetch API in JavaScript</td>
-    <td>Low</td>
-    <td>1 hour</td>
+    <td class="tg-0pky">Async &amp; Await</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">Medium</td>
+    <td class="tg-0pky">1 hour</td>
   </tr>
   <tr>
-    <td>ADE</td>
-    <td>W1/D4</td>
-    <td>Event loop</td>
-    <td>Medium</td>
-    <td>1 hour</td>
+    <td class="tg-0pky">Inheritance &amp; 'this' keyword</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">High</td>
+    <td class="tg-0pky">1 hour</td>
   </tr>
   <tr>
-    <td>ADE</td>
-    <td>W1/D5</td>
-    <td>Event delegation, propagation, bubbling</td>
-    <td>Medium</td>
-    <td>1 hour</td>
+    <td class="tg-0pky">Storage</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">Easy</td>
+    <td class="tg-0pky">1 hour</td>
   </tr>
   <tr>
-    <td>ADE</td>
-    <td>W1/D5</td>
-    <td>Using external libraries like jQuery, Lodash</td>
-    <td>Medium</td>
-    <td>1 hour</td>
+    <td class="tg-0pky">Other environments such as npm (available with node.js) &amp; yarn</td>
+    <td class="tg-0pky">Yes</td>
+    <td class="tg-0pky">Easy</td>
+    <td class="tg-0pky">1 hour</td>
   </tr>
   <tr>
-    <td>ADE</td>
-    <td>W1/D5</td>
-    <td>Best Practices</td>
-    <td>Low</td>
-    <td>30 min</td>
+    <td class="tg-0pky">Assessment concept quiz</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">20 min</td>
   </tr>
   <tr>
-    <td>ADE Assignment</td>
-    <td>W1/D5-6</td>
-    <td>Auto Image Slider</td>
-    <td>Medium</td>
-    <td>8 hours 30 min</td>
+    <td class="tg-0pky">Assignment: Image Slider</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">2 hour</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td class="tg-0pky" colspan="5"></td>
   </tr>
   <tr>
-    <td colspan="4"><strong>Advanced Javascript Concepts (AJC)</strong></td>
-    <td><strong>27 hours</strong></td>
+    <td class="tg-0pky" rowspan="5">Instagram Clone (Landing Page and Profile Page)</td>
+    <td class="tg-0pky">Readiness Checklist</td>
+    <td class="tg-0pky" rowspan="5"></td>
+    <td class="tg-0pky" rowspan="5">Medium</td>
+    <td class="tg-0pky" rowspan="5">40 hours</td>
   </tr>
   <tr>
-    <td>AJC</td>
-    <td>W1/D6</td>
-    <td>Advanced data structure</td>
-    <td>High</td>
-    <td>1 hour</td>
+    <td class="tg-0pky">Project Overview</td>
   </tr>
   <tr>
-    <td>AJC</td>
-    <td>W1/D6</td>
-    <td>ES6</td>
-    <td>Medium</td>
-    <td>2 hour</td>
+    <td class="tg-0pky">Screen Mockups</td>
   </tr>
   <tr>
-    <td>AJC</td>
-    <td>W1/D6</td>
-    <td>ES6 - Async await</td>
-    <td>High</td>
-    <td>1 hour</td>
+    <td class="tg-0pky">Boiler plate &amp; Assets</td>
   </tr>
   <tr>
-    <td>AJC</td>
-    <td>W1/D6</td>
-    <td>Class Inheritance</td>
-    <td>Medium</td>
-    <td>1 hour</td>
+    <td class="tg-0pky">User Stories Board</td>
   </tr>
   <tr>
-    <td>AJC</td>
-    <td>W1/D7</td>
-    <td>'this' keyword</td>
-    <td>Medium</td>
-    <td>2 hour</td>
+    <td class="tg-0pky" colspan="5"></td>
   </tr>
   <tr>
-    <td>AJC</td>
-    <td>W1/D7</td>
-    <td>Storage</td>
-    <td>Medium</td>
-    <td>2 hour</td>
-  </tr>
-  <tr>
-    <td>AJC</td>
-    <td>W1/D7</td>
-    <td>Other environments like NodeJS (npm), YARN</td>
-    <td>Medium</td>
-    <td>2 hour</td>
-  </tr>
-  <tr>
-    <td>AJC Assignment</td>
-    <td>W2/D8</td>
-    <td>Javascript pagination - 1</td>
-    <td>High</td>
-    <td>8 hours</td>
-  </tr>
-  <tr>
-    <td>AJC Assignment</td>
-    <td>W2/D9</td>
-    <td>Javascript pagination - 2</td>
-    <td>High</td>
-    <td>8 hours</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Project</td>
-    <td>W2/D10-14</td>
-    <td>Instagram Clone</td>
-    <td>High</td>
-    <td>40 hours</td>
+    <td class="tg-0pky" colspan="3"></td>
+    <td class="tg-eqm3">Total</td>
+    <td class="tg-0pky">76 hours</td>
   </tr>
 </table>
 

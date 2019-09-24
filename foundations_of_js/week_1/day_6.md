@@ -38,7 +38,6 @@ JavaScript is huge. Pat yourself at the back for having reached this far. The co
 - [Async JS from callbacks to promises to async-await/](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/)
 
 
-## AJC: ES6 - Class Inheritance (1 hour)
+## AJC: ES6 - Class Inheritance (30 min)
 #### Course Path
 -  [JS Info: Class inheritance](https://javascript.info/class-inheritance)
-- [ES6: Classes & Inheritance](https://medium.com/ecmascript-2015/es6-classes-and-inheritance-607804080906)
