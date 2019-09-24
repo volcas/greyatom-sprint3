@@ -84,7 +84,7 @@ After this sprint, you will have an understanding of
     <td>Control Flow &amp; Error Handling</td>
     <td>Yes</td>
     <td>Easy</td>
-    <td>30 min</td>
+    <td>2 hours</td>
   </tr>
   <tr>
     <td>Functions &amp; Object Oriented Programming</td>
@@ -222,7 +222,7 @@ After this sprint, you will have an understanding of
     <td>Readiness Checklist</td>
     <td rowspan="5"></td>
     <td rowspan="5">Medium</td>
-    <td rowspan="5">40 hours</td>
+    <td rowspan="5">30 hours</td>
   </tr>
   <tr>
     <td>Project Overview</td>
@@ -242,7 +242,7 @@ After this sprint, you will have an understanding of
   <tr>
     <td colspan="3"></td>
     <td>Total</td>
-    <td>76 hours</td>
+    <td>68 hours</td>
   </tr>
 </table>
 

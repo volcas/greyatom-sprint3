@@ -48,7 +48,6 @@ From  [W3C](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScrip
 
 ## BJSP: Loops (1 hour)
 #### Course Path
-- [JS Info: While-for](https://javascript.info/while-for)
 - [Medium: The complete guide to loops](https://medium.com/@js_tut/the-complete-guide-to-loops-cfa6522157e9)
 
 ### Additional References
