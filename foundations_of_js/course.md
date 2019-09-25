@@ -105,7 +105,7 @@ After this sprint, you will have an understanding of
     <td>3 hours</td>
   </tr>
   <tr>
-    <td>Form Validation: https://www.youtube.com/watch?v=HP-VzJEDCKE</td>
+    <td>Form Validation</td>
     <td>Yes</td>
     <td>Medium</td>
     <td>1 hour</td>
