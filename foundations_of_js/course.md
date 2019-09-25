@@ -43,6 +43,7 @@ After this sprint, you will have an understanding of
  - ES6 - Async await
  - Event delegation, propagation, bubbling
  - Using external libraries like jQuery, Lodash.
+ - Best Practices
  - Assignment
 
 **Advanced Javascript Concepts (AJC)**
@@ -139,16 +140,10 @@ After this sprint, you will have an understanding of
     <td>1 hour</td>
   </tr>
   <tr>
-    <td>Using external libraries like jQuery and Lodash</td>
+    <td>Using external libraries and best practices</td>
     <td>Yes</td>
     <td>Medium</td>
     <td>1 hour</td>
-  </tr>
-  <tr>
-    <td>Best Practices</td>
-    <td></td>
-    <td>Easy</td>
-    <td>10 min</td>
   </tr>
   <tr>
     <td>Assessment concept quiz</td>
