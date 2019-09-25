@@ -171,13 +171,7 @@ After this sprint, you will have an understanding of
     <td>ECMAScript 6</td>
     <td>Yes</td>
     <td>Medium</td>
-    <td>2 hour</td>
-  </tr>
-  <tr>
-    <td>Async &amp; Await</td>
-    <td>Yes</td>
-    <td>Medium</td>
-    <td>1 hour</td>
+    <td>3 hour</td>
   </tr>
   <tr>
     <td>Inheritance &amp; 'this' keyword</td>
@@ -192,7 +186,7 @@ After this sprint, you will have an understanding of
     <td>1 hour</td>
   </tr>
   <tr>
-    <td>Other environments such as npm (available with node.js) &amp; yarn</td>
+    <td>Package managers</td>
     <td>Yes</td>
     <td>Easy</td>
     <td>1 hour</td>

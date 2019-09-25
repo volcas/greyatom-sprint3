@@ -1,0 +1,11 @@
+flow-typed/**/*.js
+coverage/**/*.js
+build/**/*.js
+config
+public
+
+# Analyze bundle size
+/analyze
+
+# dependencies
+/node_modules

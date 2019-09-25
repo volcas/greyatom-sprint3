@@ -1,0 +1,25 @@
+@import './mixin.scss';
+
+:root {
+  // Colors
+  --color-accent-1: #fff;
+
+  // Brand colors
+  --color-instagram: #df0141;
+  --color-facebook: #3a549f;
+
+  // Spacing
+  --gutter: 8px;
+}
+
+body,
+html {
+  height: 100%;
+  color: var(--color-white);
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}

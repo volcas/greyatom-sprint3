@@ -15,7 +15,7 @@
 - [cookies vs localstorage](https://medium.com/swlh/cookies-vs-localstorage-whats-the-difference-d99f0eb09b44)
 
 
-## AJC: Other environments like NodeJS (npm), YARN (1 hour)
+## AJC: Package Managers (1 hour)
 #### Course Path
 - [npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
 - [Yarn](https://medium.com/@jpblancoder/yarn-all-the-things-67a5b9839152)
