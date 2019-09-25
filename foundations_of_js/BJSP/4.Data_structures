@@ -1,0 +1,57 @@
+
+## Overview
+
+This concept will help you understand Data structures in JS
+
+## Learning Outcome
+
+- What is a data structure?
+- Why do we need to structure the data?
+
+
+### Data structrure
+
+A **data structure** is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
+
+#### What you must do?
+
+- Read about various [Array Methods](https://javascript.info/array-methods) used for manipulating and accessing data.
+- Read about all you need to know about JS Data structures in parts
+	- [Data structures in JS](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
+	- [Data structures in JS Part 1](https://blog.bitsrc.io/data-structures-in-javascript-part-1-8231c9a4bc8b)
+	- [Data structures in JS Part 2](https://blog.bitsrc.io/data-structures-in-javascript-part-2-d0d09b761df0)
+- Do solve the corresponding assignments in the link.
+
+
+### Assessment Quiz
+
+1. Which method should be used to push an element at the end of the array?
+- `shift`
+- `push` [Correct Answer]
+- `slice`
+- `unshift`
+
+2. Which of these for loops would iterate through each item of the nums array (no more, no less)?
+- `for (var i = 0; i < nums; i++) { }`
+- `for (var i = 1; i < nums.length; i++) { }`
+- `for (var i = 1; i < nums; i++) { }`
+- `for (var i = 0; i < nums.length; i++) { }` [Correct Answer]
+
+3. Which method would help me find the position of an element in an array?
+
+- [].indexOf
+- [].pos
+- [].findPos
+- [].indexSearch
+
+4.  How can I create a new array of the number `2` from an existing array of mixed numbers?
+- `Filter`
+- `for`
+- `map`
+-  `all of them` [Correct Answer]
+
+5. Say, I have an array of objects with property name `age` How can I find a particular object whose property value matches the age 22?
+- [].find [Correct Answer]
+- [].indexOf
+- [].match
+- [].search
