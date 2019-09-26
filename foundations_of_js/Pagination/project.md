@@ -33,7 +33,7 @@ Current page, should always be updated in the input.
 Comments from [https://jsonplaceholder.typicode.com/comments](https://jsonplaceholder.typicode.com/comments)
 
 #### Output
-Pagination should look similar to this (pagination image)(https://www.sketchappsources.com/resources/source-image/pagination-sudheer.png)
+Pagination should look similar to this [pagination image](https://www.sketchappsources.com/resources/source-image/pagination-sudheer.png)
 
 #### Constraints
 - Use async/await

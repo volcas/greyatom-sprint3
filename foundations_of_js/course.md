@@ -18,9 +18,9 @@ After this sprint, you will have an understanding of
 - What are some common libraries being used in JavaScript?
 
 ### What will you build?
-You will be building a responsive clone of the Instagram landing page as shown in the picture below by implementing the HTML, CSS and JavaScript concepts learned. You'll gain insights on building the frontend of a social media site and learning the small interactions such as liking a pic, adding a comment that come along with it.
+You will be building a pagination of several comments as shown in the picture below by implementing the HTML, CSS and JavaScript concepts learned. You'll gain insights on rendering pagination for big data on the frontend to avoid performance bottleneck of rendering large datasets.
 
-![Instagram Clone](week_2/insta.png)
+![Pagination Image](https://www.sketchappsources.com/resources/source-image/pagination-sudheer.png)
 
 
 ### Learning Outcomes
