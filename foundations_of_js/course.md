@@ -235,22 +235,6 @@ After this sprint, you will have an understanding of
   </tr>
 </table>
 
-
-## Course Content
-### Week 1
-- [Day 1](week_1/day_1.md)
-- [Day 2](week_1/day_2.md)
-- [Day 3](week_1/day_3.md)
-- [Day 4](week_1/day_4.md)
-- [Day 5](week_1/day_5.md)
-- [Day 6](week_1/day_6.md)
-- [Day 7](week_1/day_7.md)
-
-### Week 2
-- [Mini Project: JavaScript Pagination](week_2/mini_project.md)
-- [Project: Build an Instagram (Landing Page & Profile) clone](week_2/project.md)
-
-
 ## Projects on GitHub
 - [https://github.com/sudheerj/awesome-javascript-technologies](https://github.com/sudheerj/awesome-javascript-technologies)
 - [https://github.com/gordonnl/animatejs](https://github.com/gordonnl/animatejs)
