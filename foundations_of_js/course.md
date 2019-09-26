@@ -207,11 +207,11 @@ After this sprint, you will have an understanding of
     <td colspan="5"></td>
   </tr>
   <tr>
-    <td rowspan="5">Instagram Clone (Landing Page and Profile Page)</td>
+    <td rowspan="5">JavaScript Pagination</td>
     <td>Readiness Checklist</td>
     <td rowspan="5"></td>
     <td rowspan="5">Medium</td>
-    <td rowspan="5">30 hours</td>
+    <td rowspan="5">8 hours</td>
   </tr>
   <tr>
     <td>Project Overview</td>
@@ -231,7 +231,7 @@ After this sprint, you will have an understanding of
   <tr>
     <td colspan="3"></td>
     <td>Total</td>
-    <td>68 hours</td>
+    <td>46 hours</td>
   </tr>
 </table>
 
